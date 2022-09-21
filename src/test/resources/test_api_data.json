@@ -1,0 +1,12 @@
+{
+  "id_get_request_test_case2": "99",
+  "user_id_test_case2": "10",
+  "id_test_case2": "99",
+  "id_get_request_test_case3": "150",
+  "body_test_case3": "{}",
+  "user_id_test_case4": "1",
+  "id_test_case4": "101",
+  "user_get_id_test_case5": "5",
+  "path_data_user_test_case5": "src/test/resources/test_api_data_check_user_id.json",
+  "id_get_request_test_case6": "5"
+}

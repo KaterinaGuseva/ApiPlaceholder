@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/a1qa 2 level/ApiPlaceholder/src/main/java/utils/commonutils">
+        <classes>
+            <class name="test.TestApiJsonPlaceholder">
+            </class>
+            <class name="test.TestProcessingDataFromDatabase">
+            </class>
+        </classes>
+    </test>
+</suite>

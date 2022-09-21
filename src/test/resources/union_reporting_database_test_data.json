@@ -1,0 +1,12 @@
+{
+  "author_name": "Marya",
+  "author_login": "masha",
+  "author_email": "masha@mail.ru",
+  "project_name": "Test API Placeholder site",
+  "session_id": 20,
+  "project_environment": "Windows",
+  "browser": "chrome",
+  "index_test1_from_test_case2": "0",
+  "index_test2_from_test_case2": "1",
+  "index_test3_from_test_case2": "2"
+}
